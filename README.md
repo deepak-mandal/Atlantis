@@ -6,6 +6,7 @@
 Write a python program to scrape the list of links available in this Github repository
 (https://github.com/vinta/awesome-python) and search them by exact name from the console.
 Search result should return the github url of the result repository.<br/>
+<h6>Solution (Python code) file: <b><i>search_repos.py</b></i></h6>
 <h3>Sample Result:-</h3>
 </p>
 
@@ -23,6 +24,7 @@ Search result should return the github url of the result repository.<br/>
 <p><b>Assignment 2:</b><br>
 Write a python class that is able to return the meaning of an English language word provided to
 it in the terminal. (Use https://dictionaryapi.dev/)</p>
+<h6>Solution (Python code) file: <b><i>dictionary_search.py</b></i></h6>
 <h3>Sample Result:-</h3>
 
 
@@ -36,6 +38,7 @@ it in the terminal. (Use https://dictionaryapi.dev/)</p>
  <p><b>Assignment 3:</b><br>
 Write a python class that is able to return the flight distance between two cities given their
 latitude and longitude coordinates.</p>
+<h6>Solution (Python code) file: <b><i>city_distance.py</b></i></h6>
     <h3>Sample Result:-</h3>
     
     
@@ -54,6 +57,7 @@ latitude and longitude coordinates.</p>
  <p><b>Assignment 4:</b><br>
 Write a python class that is able to find three available WiFi networks with the strongest signal
 and connect to the one where the password is provided.</p>
+<h6>Solution (Python code) file: <b><i>Wi-Fi.py</b></i></h6>
 <h3>Sample Result:-</h3>
     
  <div align="center">
