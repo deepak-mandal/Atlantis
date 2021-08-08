@@ -67,4 +67,6 @@ and connect to the one where the password is provided.</p>
     
 </div>
 
-<hr>
+<hr><br>
+Various Assumption, suitable error handling, terms & conditions has been followed as mentioned in the <a href="https://github.com/deepak-mandal/Atlantis/blob/master/img/Coding%20Assignment%20-%20Python%20-%20Atlantis.pdf">Assignment sheet / Questions</a>. I have also mention relevent comment in the respective Solution Python code file itself.<hr>
+
