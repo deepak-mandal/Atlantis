@@ -1,1 +1,21 @@
 
+Python Version: 3.9.5
+
+Python Library used are:-
+BeautifulSoup / bs4,
+json, 
+requests, 
+math, 
+subprocess, 
+os, 
+getpass, 
+platform
+
+
+
+
+
+
+
+
+
